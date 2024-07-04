@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+.logo-img{
+    width: 150px;
+    height: 40px;
+}
+.nav-item{
+    padding: 0 15px;
+}
+.card:hover{
+    cursor: pointer;
+}
+.imgwidth{
+    margin-top: 30px;
+    width: 600px;
+}
+.abt{
+    font-size:45px ;
+    color: #004AAD;
+    text-decoration: underline;
+}
+.abtpara{
+    padding-left: 50px;
+    text-align: center;
+    width: 550px;
+}
+.imgsize{
+    margin-top: 30px;
+    height: 300px;
+    width: 580px;
+    margin-left: 20px;
+
+}
+.abtparaa1{
+    line-height: 35px;
+    font-size: 17px;
+}
+.contactus{
+    background-color: #004AAD;
+    padding: 8px;
+}
+.cntct, .cntct:hover{
+    background-color: #004AAD;
+
+}
+.contactSubheading{
+    font-weight: bold;
+    color: #004AAD;
+    padding-bottom: 10px;   
+}
+.footer{
+    padding-top: 10px;
+    width: 100%;
+    text-align: center;
+    background: #004AAD;
+    color: whitesmoke;
+}
+
+@media only screen and (max-width: 575px){
+    
+}
